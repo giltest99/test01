@@ -6,21 +6,16 @@ Giltest new site
 - item 3
 ```html
 <ul>
-	<li>Item 01</li>
-	<li>Item 02</li>
-	<li>Item 03</li>
-	<li>Item 04</li>
+  <li>Item 01</li>
+  <li>Item 02</li>
+  <li>Item 03</li>
+  <li>Item 04</li>
 </ul>
 ```
 ```javascript
 function myFunction(){
-	console.log("Hello world !")
+  console.log("Hello world !")
 }
 ```
 [Gilles dev](http://gilles-dev.com "Gilles dev")
 ----
-> hello
-|  Nom |  Prénom |
-|  DOE |   John |
-|   DOE|  Jane  |
-
