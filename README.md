@@ -21,7 +21,6 @@ function myFunction(){
 ----
 > hello
 |  Nom |  Prénom |
-| ------------ | ------------ |
 |  DOE |   John |
 |   DOE|  Jane  |
 
