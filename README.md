@@ -4,7 +4,7 @@ Giltest new site
 -  item 1
 - item 2
 - item 3
-```javascript
+```html
 <ul>
   <li>Item 01</li>
   <li>Item 02</li>
